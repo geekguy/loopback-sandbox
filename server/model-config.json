@@ -31,5 +31,17 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "M1": {
+    "dataSource": "db",
+    "public": true
+  },
+  "M2": {
+    "dataSource": "db",
+    "public": true
+  },
+  "M3": {
+    "dataSource": "db",
+    "public": true
   }
 }
