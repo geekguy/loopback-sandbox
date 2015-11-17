@@ -4,6 +4,10 @@
   "properties": {
     "name": {
       "type": "string"
+    },
+    "checkDefault": {
+      "type": "string",
+      "default": "Default String"
     }
   },
   "relations": {
@@ -11,5 +15,11 @@
       "type": "hasMany",
       "model": "M2"
     }
-  }
+  },
+  "scope": {
+      "where": {
+        "checkDefault": "Scope Condition String"
+      }
+    }
+
 }

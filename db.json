@@ -16,9 +16,9 @@
     "RoleMapping": {},
     "Role": {},
     "M1": {
-      "1": "{\"name\":\"Model - 1 - index 1\",\"id\":1}",
-      "2": "{\"name\":\"Model - 1 - index 2\",\"id\":2}",
-      "3": "{\"name\":\"Model - 1 - index 3\",\"id\":3}"
+      "1": "{\"name\":\"Model - 1 - index 1\",\"checkDefault\":\"Scope Condition String\",\"id\":1}",
+      "2": "{\"name\":\"Model - 1 - index 2\",\"checkDefault\":\"Scope Condition String\",\"id\":2}",
+      "3": "{\"name\":\"Model - 1 - index 3\",\"checkDefault\":\"Scope Condition String\",\"id\":3}"
     },
     "M2": {
       "1": "{\"name\":\"Model - 2 - index 1\",\"m1Id\":1,\"id\":1}",
